@@ -1,0 +1,62 @@
+ollama
+using ollma user or developer can build llm locally (local computer ) personal computer 
+
+GENEATIVE AI 2 PART 
+		LLM (large language model)  -- only generate text to text generation 
+					user will write the text & model will generate text only it wont genear image 
+					llm is text based model 
+					
+		State of the art model (SOTA model) also called multimodel 
+					user will write the text & model wil generate image, audio, video except text 
+					in cloud section state of the model are called as COGNITIVE AI 
+					sota is multimodel 
+					
+	
+Window os -- 6, 7, 8, 9, 10, 11 
+python -- 3.1, 3.2, 3.3 
+gpt -- gpt2, 
+			gpt 3.1 
+			gpt 3.2 
+			gpt 4 
+			gpt 40 
+			gpt 4 reasoning 
+			gpt 5
+			gpt 5.1 
+			gpt 5.2 
+			
+
+anthropic -- sonnet, 
+					haiku
+					opus 
+
+
+google -- gemini 1 |
+				gemini1.5 pro 
+				gemin 1.5 flash
+				gemin 2 pro
+				gemin 2 flahs
+				gemine3 model 
+				
+
+every compnay has 2 service ( llm service & multimodel services) 
+
+what every model i wrote in above you need to open website -- open.com | anropic.com| google.com | meta.com 
+
+i wanted to build llm applicaton localy but how -- ollama 
+
+
+using ollama we build and rull llms locally not multimodel only llms 
+- ollama now provide cloud based api 
+- till the time installation internet is required after no internet required 
+- ollma support only free model   
+
+1- google -- ollama.com - download  (1.8gb software) - install the software 
+2- control panel -- please check it is installed or not 
+3- cmd -- ollama -- ollama ls (show the list of llms)
+4- for first time user you will see none model you download  
+5- ollama.com -- model -- select kimi k2.5-- cloude
+6- past in cmd -- user must need to sign in to the gmail account
+7- prompt will appear start working on it 
+
+cmd command-ollama run kimi-k2.5:cloud  
+
